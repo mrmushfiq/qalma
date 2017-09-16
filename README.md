@@ -1,1 +1,1 @@
-# qalma
+QALMA (Quality Assurance for Linac with Matlab) is free Matlab based software developed at Florida Atlantic University by M. Mushfiqur Rahman under the supervision of Dr. Georgios Kalantzis. Currently version 1.0 is available on github under GPLv3. Please see the manual ('qalma_manual.pdf') for the installation and user guidelines. 
