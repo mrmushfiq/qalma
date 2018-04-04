@@ -7,5 +7,5 @@ Welcome to the QALMA github repository. QALMA stands for Quality Assurance for L
 * Light-radiation field coincidence. 
 
 Sample images and files are available in the ‘Sample’ folder. For detail documantation Please see the manual ('qalma_manual.pdf') or visit https://github.com/mrmushfiq/qalma/wiki. 
-To check the comparison with commercial software please visit https://github.com/mrmushfiq/qalma/wiki/Comparison-with-Commercial-Softwares. 
-Publication: https://www.sciencedirect.com/science/article/pii/S2352711018300311
+<br/>To check the comparison with commercial software please visit https://github.com/mrmushfiq/qalma/wiki/Comparison-with-Commercial-Softwares. 
+<br/>Publication: https://www.sciencedirect.com/science/article/pii/S2352711018300311
