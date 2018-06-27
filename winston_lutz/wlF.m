@@ -74,14 +74,14 @@ function wlF_load(handles, img_url)
     
     res = str2num(get(handles.res_txt,'String'));
     mag = str2num(get(handles.mag_txt,'String'));
-    
+    mag2 = 1.0/mag;  % since object = image/maginification factor
     center = [center_rad ; center_ball];
     %delx = abs(center_rad(1) - center_ball(1))
     %dely = abs(center_rad(2) - center_ball(2)) 
     
     diff = pdist(center, 'euclidean' );
     %diff = sqrt(sum((center_rad - center_ball) .^ 2));
-    diff2 = diff * mag * res;
+    diff2 = diff * mag2 * res;
     set(handles.distance_txt, 'String', num2str(diff2));
 
     % marking the filtered images
