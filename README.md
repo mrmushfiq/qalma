@@ -10,4 +10,7 @@ Sample images and files are available in the ‘Sample’ folder. For detail doc
 <br/>To check the comparison with commercial software please visit https://github.com/mrmushfiq/qalma/wiki/Comparison-with-Commercial-Softwares. 
 <br/>Publication: https://www.sciencedirect.com/science/article/pii/S2352711018300311
 
+![](http://i65.tinypic.com/2nq43e1.png)
+
+
 <br/>Disclaimer: QALMA was developed for research purpose. We are not responsible for clinical application. 
